@@ -21,12 +21,13 @@
 <br>
 
 
-<h4 align="center">👩‍💻  About Me</h4>
+<h2 align="center">👩‍💻  About Me</h2>
 
 ###
 
-<p align="left">💻 Systems analysis and development student.<br>🏠 I live in São Paulo, Brasil.<br>👨‍💻 Currently improving myself in html, css and javascript<br>⌨ Developing my first website</p>
-
+<p align="left">💻 Systems analysis and development student.<br>🏠 I live in São Paulo, Brasil.<br>👨‍💻 Currently improving myself in html, css and javascript<br>⌨ Developing my first website  <br> <br>
+"I am a third-semester student majoring in Systems Analysis and Development, passionate about programming and technology. I am seeking my first job in the IT field, where I can apply my knowledge in practice and acquire new skills. I have experience as an administrative assistant, where I gained proficiency with Excel, Power BI, and other data management and information tools. In this role, I developed spreadsheets, charts, reports, and dashboards, as well as automated processes and optimized workflow.
+I am a dedicated, proactive, creative, and communicative professional. I enjoy working in a team, solving problems, and seeking innovative solutions. I am eager to enter the IT job market and contribute to the growth of the company and the industry." </p>
 --- 
 <br>
 
