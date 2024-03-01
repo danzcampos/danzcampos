@@ -55,5 +55,16 @@ I am a dedicated, proactive, creative, and communicative professional. I enjoy w
 
 
 
+--- 
+<h2 align="center">🎵</h2>
 
 
+<br> 
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31mip4tsiwnlvxvxdaymuvgepwc4">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31mip4tsiwnlvxvxdaymuvgepwc4&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
